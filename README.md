@@ -13,8 +13,6 @@ LAU variables:
 * laukey
 
 Other variables:
-* dn (needed for gpi Pre-Validation API)
-* bic (needed for gpi Pre-Validation API)
 * apikey (request your API key by creating an APP on [SWIFT Developer Portal](https://developer.swift.com))
 
 URLs are preloaded with the SWIFT Sandbox API URLs starting with `https://sandbox.swift.com`, change the URL to point to your development, test or local URLs where the service is running.
